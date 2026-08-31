@@ -1,2 +1,1 @@
-# AG-EGU-Training
-
+Training Materials
